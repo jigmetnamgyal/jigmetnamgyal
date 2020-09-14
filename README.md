@@ -17,6 +17,8 @@ Welcome to my Github!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JigmeT123)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src = "https://github-readme-stats.vercel.app/api?username=JigmeT123&show_icons=true&theme=radical&layout=compact">
+
 ### Languages and Tools:
 
 #### Programming Languages:
