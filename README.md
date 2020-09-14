@@ -34,7 +34,7 @@ Welcome to my Github!
 
 
 
-#### Full-Stack Web Development
+#### Web Development
 
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
