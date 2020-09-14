@@ -21,14 +21,16 @@ Welcome to my Github!
 
 #### Programming Languages / Library / Framework:
 
-  <img src="https://img.shields.io/badge/javascript%20-%23430098.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> 
+<div style="display:flex"}>
+<img src="https://img.shields.io/badge/javascript%20-%23430098.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> 
   <img src="https://img.shields.io/badge/p5.js%20-%23F05033.svg?&style=for-the-badge&logo=p5.js&logoColor=blue"/> 
   <img src="https://img.shields.io/badge/react%20-%F7F9F9.svg?&style=for-the-badge&logo=react&logoColor=blue"/> 
   <img src="https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Processing%20-%23000.svg?&style=for-the-badge&logo=processing&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> </div>
+  
 
 
 
