@@ -19,9 +19,7 @@ Welcome to my Github!
 
 <img src = "https://github-readme-stats.vercel.app/api?username=JigmeT123&show_icons=true&theme=radical&layout=compact">
 
-### Languages and Tools:
-
-#### Programming Languages:
+#### Programming Languages / Library / Framework:
 
   <img src="https://img.shields.io/badge/javascript%20-%23430098.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> 
   <img src="https://img.shields.io/badge/p5.js%20-%23F05033.svg?&style=for-the-badge&logo=p5.js&logoColor=blue"/> 
