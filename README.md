@@ -11,7 +11,7 @@ Welcome to my Github!
 - 🚀 I'm currently focused on fullstack development with MERN stack.
 - 🏢 I'm open to spring 2021 internship opportunities
 - 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/jigmetashi02)
-- 📫 You can reach me at: [jigmetashi02@gmail.com](mailto:jigmetashi02@gmail.com)
+- 📩 You can reach me at: [jigmetashi02@gmail.com](mailto:jigmetashi02@gmail.com)
 
 <br />
 
@@ -23,10 +23,15 @@ Welcome to my Github!
 
 #### Programming Languages:
 
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <img src="https://img.shields.io/badge/javascript%20-%23430098.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> 
+  <img src="https://img.shields.io/badge/p5.js%20-%23F05033.svg?&style=for-the-badge&logo=p5.js&logoColor=blue"/> 
+  <img src="https://img.shields.io/badge/react%20-%F7F9F9.svg?&style=for-the-badge&logo=react&logoColor=blue"/> 
+  <img src="https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Processing%20-%23000.svg?&style=for-the-badge&logo=processing&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> 
+
 
 
 #### Full-Stack Web Development
@@ -40,15 +45,4 @@ Welcome to my Github!
 
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
 <br />
-<!--
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
--->
