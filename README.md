@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/Jigme%20Tashi%20Namgyal-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jigme-tashi-namgyal-511a811a3/)
 [![Instagram Badge](https://img.shields.io/badge/@frontendj-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/frontendj/)
-[![Facebook Badge](https://img.shields.io/badge/@JigmeTashiNamgyal-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Mugiwara.D.Jigme619)
+[![Facebook Badge](https://img.shields.io/badge/@Jigme%20Tashi%20Namgyal-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Mugiwara.D.Jigme619)
 <br /><br />![visitors](https://visitor-badge.glitch.me/badge?page_id=JigmeT123)
 
 Welcome to my Github!
