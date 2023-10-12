@@ -25,8 +25,6 @@ _Studying BS in Computer Science in ADA University, Baku_<br>
 
 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jigmetnamgyal&theme=dracula&"><p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigmetnamgyal&show_icons=true&theme=dracula&locale=en" alt="jigmetnamgyal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigmetnamgyal&theme=dracula&" alt="jigmetnamgyal" /></p>
