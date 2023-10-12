@@ -13,12 +13,9 @@ _Studying BS in Computer Science in ADA University, Baku_<br>
 ## 💬 Languages
 
 🇺🇸 **English**: C2 <br>
-<br><br>
-🏃 **GO Lang**
-<br><br>
-💎 **Ruby**
-<br><br>
-🕸️ **Javascript**
+🏃 **GO Lang** <br>
+💎 **Ruby** <br>
+🕸️ **Javascript** <br>
 <br><br>
 
 ## 👩🏼‍🎓 Education
