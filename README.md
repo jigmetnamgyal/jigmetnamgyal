@@ -7,7 +7,7 @@
 _Software engineer based in Thimphu, Bhutan_ <br>
 _Studying BS in Computer Science in ADA University, Baku_<br>
 
-Hey,
+Hey 👋,
 
 So, picture this: I'm JTN, your friendly neighborhood software engineer hailing from the mystical land of Bhutan 🇧🇹. Now, I didn't exactly come out of the womb typing code, but let me tell you, I've come a long way since high school!
 
