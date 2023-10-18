@@ -13,7 +13,7 @@ So, picture this: I'm JTN, your friendly neighborhood software engineer hailing 
 
 In the early days, I was like a kid in a candy store, trying every tech flavor in the book, learning something new for a solid 4-5 hours every day. But then, college came knocking, and well, I got a bit too comfy. Lazy days, you know? So, I pulled a classic move and took a gap year to whip myself into shape.
 
-But oh, the job hunt! It was like hunting unicorns. Companies wanted degrees or experience, and I had neither. Three long months of struggle, and finally, I landed a junior rails backend gig in a Swiss-based company. And guess what? I ended up running the show on a telecom CRM in just a week! From there, I danced my way through CPQ products, resource management, and ATS.
+But oh, the job hunt! It was like hunting unicorns. Companies wanted degrees or experience, and I had neither. Three long months of struggle, and finally, I landed a junior rails backend gig in a Swiss-based company. And guess what? I ended up running the show on a telecom customer portal in just a week! From there, I danced my way through CPQ products, resource management, and ATS.
 
 Two years later, I jetted off to Japan, this time as a technical lead. I had to roll up my sleeves and dive into the deep end, learning devops, managing teams, and cooking up APIs in Golang from scratch. It was like being handed a Rubik's Cube, and I was determined to solve it!
 
