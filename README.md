@@ -38,13 +38,3 @@ So, dear hiring manager, if you're on the lookout for someone who can spin code 
 **Bachelor of Science** in Computer Science<br>
 [ADA University](https://www.ada.edu.az/) - Baku, Azerbaijan_(2019 - present)_
 
-📊 Github Status
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigmetnamgyal&show_icons=true&theme=dracula&locale=en" alt="jigmetnamgyal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigmetnamgyal&theme=dracula&" alt="jigmetnamgyal" /></p>
-
-
-![Snake animation](https://github.com/jigmetnamgyal/jigmetnamgyal/blob/output/github-contribution-grid-snake.svg)
-
-
