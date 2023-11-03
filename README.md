@@ -27,7 +27,7 @@ So, dear hiring manager, if you're on the lookout for someone who can spin code 
 
 ## 💬 Languages
 
-🇺🇸 **English**: C2 <br>
+🇺🇸 **English** <br>
 🏃 **GO Lang** <br>
 💎 **Ruby** <br>
 🕸️ **Javascript**
